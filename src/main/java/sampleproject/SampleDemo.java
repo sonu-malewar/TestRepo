@@ -6,7 +6,7 @@ public class SampleDemo {
 
 		// This is swapping two number program
 		
-		int a=50,b=30;
+		int a=100,b=50;
 		
 		a=a+b;  //80
 		
