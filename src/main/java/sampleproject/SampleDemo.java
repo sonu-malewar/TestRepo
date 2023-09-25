@@ -14,8 +14,8 @@ public class SampleDemo {
 		
 		a= a-b; //30
 		
-		System.out.println(a);
-		System.out.println(b);
+		System.out.println("a value after swap"+a);
+		System.out.println("b value after swap"+b);
 		
 		
 	}
