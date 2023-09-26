@@ -4,9 +4,9 @@ public class SampleDemo {
 	
 	public static void main(String[] args) {
 
-		// This is swapping two number program
+	//comment removed
 		
-		int a=50,b=30;
+		int a=100,b=50;
 		
 		a=a+b;  //80
 		
