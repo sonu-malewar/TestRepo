@@ -4,7 +4,7 @@ public class SampleDemo {
 	
 	public static void main(String[] args) {
 
-	
+	//comment removed
 		
 		int a=100,b=50;
 		
